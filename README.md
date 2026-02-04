@@ -60,7 +60,7 @@ Contains labeled hand sign images for A–Z
 Source: Public ASL digit datasets (Kaggle):
 Contains labeled hand sign images for digits 0–9
 
-Note: Full datasets are not included in this repository due to size constraints.C
+Note: Full datasets are not included in this repository due to size constraints.
 
 ## How to Run the Project
 - Install Dependencies
