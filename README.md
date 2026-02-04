@@ -54,10 +54,10 @@ ASL/
 
 ## Dataset Information
 - ASL Alphabet Dataset
-Source: Public ASL alphabet image datasets (Kaggle)
+Source: Public ASL alphabet image datasets (Kaggle):
 Contains labeled hand sign images for A–Z
 - ASL Digit Dataset
-Source: Public ASL digit datasets (Kaggle)
+Source: Public ASL digit datasets (Kaggle):
 Contains labeled hand sign images for digits 0–9
 
 Note: Full datasets are not included in this repository due to size constraints.C
