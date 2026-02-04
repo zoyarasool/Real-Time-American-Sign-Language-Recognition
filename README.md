@@ -73,17 +73,17 @@ Note: Full datasets are not included in this repository due to size constraints.
   Press Q to exit
 
 ## Future Work
-- Phase 2 (Planned):
-  Word-level ASL recognition
-  Landmark-based models using MediaPipe + LSTM
-  Improved temporal modeling for dynamic signs
-- Phase 3 (Planned):
-  Sentence-level recognition
-  Text-to-speech output
-  Support for Pakistani Sign Language (PSL)
-  Mobile application deployment
+**Phase 2 (Planned):**
+- Word-level ASL recognition
+- Landmark-based models using MediaPipe + LSTM
+- Improved temporal modeling for dynamic signs
+**Phase 3 (Planned):**
+- Sentence-level recognition
+- Text-to-speech output
+- Support for Pakistani Sign Language (PSL)
+- Mobile application deployment
   
 ## Author
-Zoya Rasool
-Software Engineering Student
-National University of Technology (NUTECH), Islamabad
+- Zoya Rasool
+- Software Engineering Student
+- National University of Technology (NUTECH), Islamabad
