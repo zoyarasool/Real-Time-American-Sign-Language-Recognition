@@ -77,6 +77,7 @@ Note: Full datasets are not included in this repository due to size constraints.
 - Word-level ASL recognition
 - Landmark-based models using MediaPipe + LSTM
 - Improved temporal modeling for dynamic signs
+
 **Phase 3 (Planned):**
 - Sentence-level recognition
 - Text-to-speech output
