@@ -1,4 +1,4 @@
-# Real-Time American Sign Language (ASL) Recognition System
+# Real-Time Sign Language Recognition System
 
 ## Overview
 This project implements a real-time American Sign Language (ASL) recognition system using deep learning and computer vision.
